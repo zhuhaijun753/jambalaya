@@ -1,0 +1,3 @@
+Add content of local fontdir file to the /usr/photon/font_repository/fontdir
+file. Then copy pcterm24.phf to /usr/photon/font_repository directory. Reboot,
+and enjoy!

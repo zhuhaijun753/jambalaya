@@ -1,0 +1,14 @@
+/gles1-athene - a simple OpenGL ES 1.0 demo with detalized Athene statue for QNX 6.x.
+/gles1-camaro - a simple OpenGL ES 1.0 demo with very detalized Chevy Camaro model for QNX 6.x.
+/gles1-cyclone - QNX 6.x port of Really Slick Screensaver (RSS) cyclone.
+/gles1-flocks - QNX 6.x port of Really Slick Screensaver (RSS) flocks.
+
+/pcterm24 - PC Terminal 24 font for Photon. Very useful for a large monitors and large resolutions.
+
+/shapes - OpenGL ES 1.0 port of some GLUT shapes with a small demo.
+
+/linebench - Photon line benchmark utility, useful for graphics driver development under QNX.
+/spanbench - Photon spans benchmark utility, useful for graphics driver development under QNX.
+/stretchblit - Photon stretch blit benchmark utility, useful for graphics driver development under QNX. Uses prepeared offscreen image for speedup.
+/stretchblit2 - Photon stretch blit benchmark utility, useful for graphics driver development under QNX. Copies each frame a new image for a real life benchmarking.
+/stretchblitdn - Photon stretch blit downsample utility, useful for graphics driver development under QNX.
