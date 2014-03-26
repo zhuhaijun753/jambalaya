@@ -1,7 +1,10 @@
-/gles1-athene - a simple OpenGL ES 1.0 demo with detalized Athene statue for QNX 6.x.
-/gles1-camaro - a simple OpenGL ES 1.0 demo with very detalized Chevy Camaro model for QNX 6.x.
-/gles1-cyclone - QNX 6.x port of Really Slick Screensaver (RSS) cyclone.
-/gles1-flocks - QNX 6.x port of Really Slick Screensaver (RSS) flocks.
+athene - a simple OpenGL ES 1.0 demo with detalized Athene statue for QNX 6.x GF.
+camaro - a simple OpenGL ES 1.0 demo with very detalized Chevy Camaro model for QNX 6.x GF.
+
+/gles1-athene - a simple OpenGL ES 1.0 demo with detalized Athene statue for QNX 6.6 Screen.
+/gles1-camaro - a simple OpenGL ES 1.0 demo with very detalized Chevy Camaro model for QNX 6.6 Screen.
+/gles1-cyclone - QNX 6.x port of Really Slick Screensaver (RSS) cyclone for QNX 6.6 Screen.
+/gles1-flocks - QNX 6.x port of Really Slick Screensaver (RSS) flocks QNX 6.6 Screen.
 
 /pcterm24 - PC Terminal 24 font for Photon. Very useful for a large monitors and large resolutions.
 
